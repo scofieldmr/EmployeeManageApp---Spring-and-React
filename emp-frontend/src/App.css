@@ -1,0 +1,16 @@
+.footer{
+    position: absolute;
+    bottom :2px;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-weight: 500;
+}
+
+.container label{
+    margin-top: 7px;
+}
+
+.container input{
+    margin-top: 7px;
+}
